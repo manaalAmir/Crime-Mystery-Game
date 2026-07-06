@@ -2,11 +2,11 @@
 
 ## 📖 Overview
 
-**Crime Mystery Game** is a C++ console-based detective game that challenges players to solve exciting mystery cases by investigating suspects, examining evidence, and making strategic accusations. Players take on the role of a detective and must use logical reasoning, observation, and deduction to identify the guilty suspect before running out of attempts.
+**Crime Mystery Game** is a C++ console-based detective game that challenges players to solve engaging mystery cases by investigating suspects, examining evidence, and making strategic accusations. Players assume the role of a detective and must use logical reasoning, observation, and critical thinking to identify the guilty suspect before exhausting their available attempts.
 
-The game features six unique crime cases, each containing different suspects, motives, alibis, and evidence. Players can interrogate suspects, inspect clues, use hints at the cost of points, and ultimately accuse the person they believe is responsible for the crime.
+The game features six unique crime cases, each with different suspects, motives, alibis, and pieces of evidence. Players can interrogate suspects, inspect clues, use hints at the cost of points, and ultimately accuse the person they believe is responsible for the crime.
 
-This project was developed as part of an **Object-Oriented Programming (OOP) semester project** and demonstrates the implementation of core OOP concepts including **inheritance, polymorphism, encapsulation, classes, objects, virtual functions, constructors, method overriding, and modular programming**.
+This project was developed as part of an **Object-Oriented Programming (OOP) semester project** and demonstrates the implementation of core OOP concepts including **inheritance, polymorphism, encapsulation, classes, objects, virtual functions, constructors, function overriding, and modular programming**.
 
 ---
 
@@ -28,8 +28,9 @@ This project was developed as part of an **Object-Oriented Programming (OOP) sem
 
 - C++
 - Object-Oriented Programming (OOP)
-- Standard Template Library (STL)
-- Visual Studio Code / Code::Blocks / Dev-C++
+- Visual Studio Code
+- Code::Blocks
+- Dev-C++
 
 ---
 
@@ -40,7 +41,8 @@ Crime-Mystery-Game/
 │
 ├── Crime_Mystery_Game.cpp
 ├── README.md
-└── .gitignore
+├── project report.pdf
+└── projet proposal.pdf
 ```
 
 ---
@@ -71,21 +73,21 @@ git clone https://github.com/your-username/crime-mystery-game.git
 Crime_Mystery_Game.cpp
 ```
 
-4. Build and run the project using your IDE.
+4. Build and run the project.
 
-5. Follow the on-screen instructions to start solving mystery cases.
+5. Follow the on-screen instructions to investigate cases, examine evidence, and solve mysteries.
 
 ---
 
 ## 🎮 Gameplay
 
 1. Enter your detective name.
-2. Choose one of the available mystery cases.
+2. Select one of the available mystery cases.
 3. Interrogate the suspects.
 4. Examine the available evidence.
 5. Use hints if needed (at the cost of points).
 6. Accuse the suspect you believe is guilty.
-7. Solve the case and earn points.
+7. Solve the case and earn points based on your performance.
 
 ---
 
@@ -99,8 +101,8 @@ Crime_Mystery_Game.cpp
 - Function Overriding
 - Constructors
 - Arrays of Objects
-- Menu-Driven Programming
 - Modular Programming
+- Menu-Driven Programming
 
 ---
 
@@ -108,67 +110,25 @@ Crime_Mystery_Game.cpp
 
 This project demonstrates:
 
-- Object-Oriented Programming principles
+- Application of Object-Oriented Programming principles
 - Interactive console application development
 - Logical reasoning and decision-making
-- User input handling
 - Game logic implementation
-- Menu-driven program design
-
----
-
-## 📸 Screenshots
-
-### 🏠 Welcome Screen
-
-_Add a screenshot here_
-
-```markdown
-![Welcome Screen](screenshots/welcome-screen.png)
-```
-
----
-
-### 🕵️ Case Selection Menu
-
-_Add a screenshot here_
-
-```markdown
-![Case Menu](screenshots/case-menu.png)
-```
-
----
-
-### 🔍 Evidence Investigation
-
-_Add a screenshot here_
-
-```markdown
-![Evidence](screenshots/evidence.png)
-```
-
----
-
-### 🎯 Making an Accusation
-
-_Add a screenshot here_
-
-```markdown
-![Accusation](screenshots/accusation.png)
-```
+- User input handling
+- Modular software design
 
 ---
 
 ## 🔮 Future Improvements
 
-- 💾 Save and load game progress
-- 🎲 Randomly generated mystery cases
-- 🎚️ Multiple difficulty levels
-- 🗂️ Additional crime scenarios
-- 🖥️ Graphical User Interface (GUI)
-- 🔊 Background music and sound effects
-- 📁 File handling for storing cases
-- ⏱️ Timer-based detective challenges
+- Save and load game progress
+- Multiple difficulty levels
+- Randomized mystery cases
+- Additional crime scenarios
+- Enhanced character dialogues
+- Graphical User Interface (GUI)
+- Background music and sound effects
+- File handling for storing player progress and cases
 
 ---
 
@@ -179,7 +139,3 @@ _Add a screenshot here_
 - **Maimoona Naeem** (24P-0617)
 
 ---
-
-## 📄 License
-
-This project was developed for educational purposes as part of an **Object-Oriented Programming (OOP) semester project** and is intended for learning, experimentation, and academic use.
